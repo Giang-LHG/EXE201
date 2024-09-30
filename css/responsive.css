@@ -234,7 +234,8 @@
 
 .navbar-brand .logo {
   width: 165px;
-  height: 65px;
+  height: 70px;
+  text-align: left;
 }
 
 @media (min-width: 320px) and (max-width: 480px) {
