@@ -614,3 +614,18 @@
     line-height: 33px;
   }
 }
+
+.img-fluid {
+  width: 100%;
+  height: 300px;
+  object-fit: cover;
+}
+.footer-logo img {
+  width: 100%;
+  height: 165px;
+  object-fit: cover;
+}
+
+.widget {
+  margin-left: 100px;
+}
